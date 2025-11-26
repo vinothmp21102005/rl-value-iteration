@@ -40,7 +40,7 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OPTIMAL POLICY
 
-<img width="745" height="181" alt="image" src="https://github.com/user-attachments/assets/b968cb73-43a8-4d83-a9fc-28fc12403343" />
+<img width="670" height="131" alt="image" src="https://github.com/user-attachments/assets/da8609dd-79f8-4199-a657-6b52a6e88b23" />
 
 ## SUCCESS RATE OF OPTIMAL POLICY
 <img width="758" height="35" alt="image" src="https://github.com/user-attachments/assets/baad1861-2197-41fe-af89-fbd2c565cfbd" />
